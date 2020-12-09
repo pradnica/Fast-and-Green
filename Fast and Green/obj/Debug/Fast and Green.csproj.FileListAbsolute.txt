@@ -1,0 +1,10 @@
+C:\Users\adaa6\source\repos\Fast and Green\Fast and Green\bin\Debug\Fast and Green.exe.config
+C:\Users\adaa6\source\repos\Fast and Green\Fast and Green\bin\Debug\Fast and Green.exe
+C:\Users\adaa6\source\repos\Fast and Green\Fast and Green\bin\Debug\Fast and Green.pdb
+C:\Users\adaa6\source\repos\Fast and Green\Fast and Green\obj\Debug\Fast and Green.csprojAssemblyReference.cache
+C:\Users\adaa6\source\repos\Fast and Green\Fast and Green\obj\Debug\Fast_and_Green.Form1.resources
+C:\Users\adaa6\source\repos\Fast and Green\Fast and Green\obj\Debug\Fast_and_Green.Properties.Resources.resources
+C:\Users\adaa6\source\repos\Fast and Green\Fast and Green\obj\Debug\Fast and Green.csproj.GenerateResource.cache
+C:\Users\adaa6\source\repos\Fast and Green\Fast and Green\obj\Debug\Fast and Green.csproj.CoreCompileInputs.cache
+C:\Users\adaa6\source\repos\Fast and Green\Fast and Green\obj\Debug\Fast and Green.exe
+C:\Users\adaa6\source\repos\Fast and Green\Fast and Green\obj\Debug\Fast and Green.pdb
